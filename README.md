@@ -13,7 +13,6 @@ Thank you !!
 ### Contributors
 * Yu-Chien Tsai
 * Hsuan-Jui Chen
-* Hsu Cheng
 
 ### Reference
 Originial Game - [Eggongg+](<https://madgarden.itch.io/eggnogg>)
