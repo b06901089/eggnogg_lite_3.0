@@ -6,7 +6,7 @@ It is a 2-dimensional game in which you can choose a character and fight each ot
 
 It can fit 10 ~ 15 players with ease and run with low lateancy.
 
-Please see Eggnogg Lite - HackMD.pdf for more details.
+Please see [Eggnogg Lite - HackMD.pdf](<https://github.com/b06901089/eggnogg_lite_3.0/blob/main/Eggnogg%20Lite%20-%20HackMD.pdf>) for more details.
 
 Thank you !!
 
