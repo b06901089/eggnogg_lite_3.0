@@ -10,6 +10,10 @@ Please see [Eggnogg Lite - HackMD.pdf](<https://github.com/b06901089/eggnogg_lit
 
 Thank you !!
 
+### Demo (Youtube)
+
+[Video](<https://youtu.be/zS6HEAOJclI>)
+
 ### Contributors
 * Yu-Chien Tsai
 * Hsuan-Jui Chen
